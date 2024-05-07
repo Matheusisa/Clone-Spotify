@@ -2,6 +2,9 @@
 
 Este é um projeto de página web para apresentação do serviço Spotify, destacando seus recursos e funcionalidades principais.
 
+![Print Spotify](imagens/clonespotify.png)
+![Print Spotify](imagens/clonespotify2.png)
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Linguagem de marcação para estruturar o conteúdo da página.
